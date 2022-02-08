@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vpretti
+- 🌱 I’m currently learning C
+-  Current 42 basecamp
